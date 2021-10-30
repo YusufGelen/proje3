@@ -1,0 +1,2 @@
+# tahminet
+Tahmin et oyunu
